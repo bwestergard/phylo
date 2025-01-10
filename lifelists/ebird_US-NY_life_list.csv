@@ -1,0 +1,68 @@
+Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
+1,10202,species,Belted Kingfisher,Megaceryle alcyon,1,Lister Park,US-NY,23 Dec 2024,L444840,S206307630,,1
+2,483,species,Northern Shoveler,Spatula clypeata,1,Lister Park,US-NY,23 Dec 2024,L444840,S206307630,,1
+3,6551,species,Black Skimmer,Rynchops niger,1,Jones Beach SP--Zachs Bay Tower,US-NY,28 Jul 2024,L109519,S189338564,,1
+4,33491,species,Baltimore Oriole,Icterus galbula,3,"5816 New York 80, Cooperstown, New York, US (42.717, -74.929)",US-NY,25 May 2024,L32267499,S177040333,,1
+5,21333,species,American Crow,Corvus brachyrhynchos,1,"283 Mill Road, Cooperstown, New York, US (42.798, -74.864)",US-NY,25 May 2024,L32312279,S177040399,,1
+6,32842,species,Dark-eyed Junco,Junco hyemalis,2,Bayside Inn,US-NY,25 May 2024,L32296761,S176979250,,1
+7,21936,species,Tufted Titmouse,Baeolophus bicolor,1,Bayside Inn,US-NY,25 May 2024,L32296761,S176979250,,1
+8,19067,species,Red-eyed Vireo,Vireo olivaceus,1,Bayside Inn,US-NY,25 May 2024,L32296761,S176979250,,1
+9,3842,species,Chimney Swift,Chaetura pelagica,15,"46 Pioneer Street, Cooperstown, New York, US (42.7, -74.925)",US-NY,24 May 2024,L32267860,S176849578,,1
+10,1242,species,Wild Turkey,Meleagris gallopavo,1,"5816 New York 80, Cooperstown, New York, US (42.717, -74.929)",US-NY,24 May 2024,L32267499,S176847883,,1
+11,7720,species,Turkey Vulture,Cathartes aura,1,"41 Old Route 82, Hudson, New York, US (42.157, -73.746)",US-NY,24 May 2024,L32267515,S176847949,,1
+12,8410,species,Red-tailed Hawk,Buteo jamaicensis,1,"2 Pen Mor Drive, East Norwich, New York, US (40.834, -73.565)",US-NY,23 Dec 2023,L28396562,S156937788,,1
+13,6854,species,Common Loon,Gavia immer,1,Norman J. Levy Park and Preserve,US-NY,22 Dec 2023,L284148,S156874725,,1
+14,717,species,Bufflehead,Bucephala albeola,7,Norman J. Levy Park and Preserve,US-NY,22 Dec 2023,L284148,S156874725,,1
+15,729,species,Hooded Merganser,Lophodytes cucullatus,5,Massapequa Preserve--Massapequa Reservoir,US-NY,22 Dec 2023,L10677522,S156864007,,1
+16,21841,species,Black-capped Chickadee,Poecile atricapillus,1,Massapequa Preserve--Massapequa Reservoir,US-NY,22 Dec 2023,L10677522,S156863384,,1
+17,32919,species,White-throated Sparrow,Zonotrichia albicollis,16,Massapequa Preserve,US-NY,22 Dec 2023,L256326,S156862452,,1
+18,32034,species,House Finch,Haemorhous mexicanus,1,Massapequa Preserve,US-NY,22 Dec 2023,L256326,S156862452,N,1
+19,27107,species,Carolina Wren,Thryothorus ludovicianus,2,Massapequa Preserve,US-NY,22 Dec 2023,L256326,S156862452,,1
+20,21066,species,Blue Jay,Cyanocitta cristata,2,Massapequa Preserve,US-NY,22 Dec 2023,L256326,S156862452,,1
+21,11314,species,Hairy Woodpecker,Dryobates villosus,1,Massapequa Preserve,US-NY,22 Dec 2023,L256326,S156862452,,1
+22,11287,species,Downy Woodpecker,Dryobates pubescens,1,Massapequa Preserve,US-NY,22 Dec 2023,L256326,S156862452,,1
+23,26777,species,Brown Creeper,Certhia americana,1,"The Battery, Manhattan",US-NY,08 Oct 2023,L288752,S151720133,,1
+24,33749,species,Common Yellowthroat,Geothlypis trichas,1,Bryant Park (5th-6th Ave. btwn 40th-42nd St.),US-NY,06 Oct 2023,L683555,S151564221,,1
+26,5777,species,Semipalmated Plover,Charadrius semipalmatus,2,"Jamaica Bay Wildlife Refuge--East Pond, south end",US-NY,29 Jul 2023,L954555,S145922540,,1
+27,6168,species,Semipalmated Sandpiper,Calidris pusilla,2,"Jamaica Bay Wildlife Refuge--East Pond, south end",US-NY,29 Jul 2023,L954555,S145920808,,1
+28,23957,species,Barn Swallow,Hirundo rustica,2,Jamaica Bay Wildlife Refuge--East Pond,US-NY,29 Jul 2023,L109144,S145917805,,1
+29,6083,species,Lesser Yellowlegs,Tringa flavipes,1,Jamaica Bay Wildlife Refuge--East Pond,US-NY,29 Jul 2023,L109144,S145917805,,1
+30,7382,species,Glossy Ibis,Plegadis falcinellus,1,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145911037,,1
+31,5997,species,Short-billed Dowitcher,Limnodromus griseus,1,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145911037,,1
+32,753,species,Ruddy Duck,Oxyura jamaicensis,9,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145911037,,1
+33,33807,species,Yellow Warbler,Setophaga petechia,2,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145885141,,1
+34,32338,species,American Goldfinch,Spinus tristis,4,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145885141,,1
+35,27088,species,Marsh Wren,Cistothorus palustris,1,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145885141,,1
+36,34224,species,Northern Cardinal,Cardinalis cardinalis,1,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,,1
+37,27870,species,Northern Mockingbird,Mimus polyglottos,2,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,,1
+38,7737,species,Osprey,Pandion haliaetus,3,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,,1
+39,7658,species,Great Blue Heron,Ardea herodias,2,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,,1
+40,7635,species,Great Egret,Ardea alba,2,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,,1
+41,7557,species,Snowy Egret,Egretta thula,1,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,,1
+42,7513,species,Black-crowned Night Heron,Nycticorax nycticorax,1,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,,1
+43,6657,species,Forster's Tern,Sterna forsteri,3,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,,1
+44,6424,species,Laughing Gull,Leucophaeus atricilla,80,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,,1
+45,6162,species,Least Sandpiper,Calidris minutilla,6,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,,1
+46,6092,species,Greater Yellowlegs,Tringa melanoleuca,1,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,,1
+47,5742,species,American Oystercatcher,Haematopus palliatus,1,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,,1
+48,365,species,Mute Swan,Cygnus olor,2,Jamaica Bay Wildlife Refuge--West Pond,US-NY,29 Jul 2023,L109145,S145882864,N,1
+49,33576,species,Common Grackle,Quiscalus quiscula,1,Central Park--Evodia Field,US-NY,28 Jul 2023,L2591837,S145840185,,1
+50,11088,species,Red-bellied Woodpecker,Melanerpes carolinus,1,Central Park--Evodia Field,US-NY,28 Jul 2023,L2591837,S145840185,,1
+51,330,species,Canada Goose,Branta canadensis,5,Central Park--Evodia Field,US-NY,28 Jul 2023,L2591837,S145840185,,1
+52,33500,species,Red-winged Blackbird,Agelaius phoeniceus,1,Central Park--Turtle Pond,US-NY,28 Jul 2023,L1180204,S145839395,,1
+53,31261,species,House Sparrow,Passer domesticus,29,Central Park--Turtle Pond,US-NY,28 Jul 2023,L1180204,S145839395,N,1
+54,28313,species,American Robin,Turdus migratorius,10,Central Park--Turtle Pond,US-NY,28 Jul 2023,L1180204,S145839395,,1
+55,27758,species,Gray Catbird,Dumetella carolinensis,6,Central Park--Turtle Pond,US-NY,28 Jul 2023,L1180204,S145839395,,1
+56,27571,species,European Starling,Sturnus vulgaris,5,Central Park--Turtle Pond,US-NY,28 Jul 2023,L1180204,S145839395,N,1
+57,11785,species,Northern Flicker,Colaptes auratus,1,Central Park--Turtle Pond,US-NY,28 Jul 2023,L1180204,S145839395,,1
+58,2373,species,Mourning Dove,Zenaida macroura,1,Central Park--Turtle Pond,US-NY,28 Jul 2023,L1180204,S145839395,,1
+59,1817,species,Rock Pigeon,Columba livia,9,Central Park--Turtle Pond,US-NY,28 Jul 2023,L1180204,S145839395,N,1
+60,32995,species,Song Sparrow,Melospiza melodia,1,Central Park--Jacqueline Kennedy Onassis Reservoir,US-NY,28 Jul 2023,L191107,S145837218,,1
+61,17302,species,Eastern Kingbird,Tyrannus tyrannus,1,Central Park--Jacqueline Kennedy Onassis Reservoir,US-NY,28 Jul 2023,L191107,S145837218,,1
+62,7342,species,Double-crested Cormorant,Nannopterum auritum,9,Central Park--Jacqueline Kennedy Onassis Reservoir,US-NY,28 Jul 2023,L191107,S145837218,,1
+64,6494,species,Great Black-backed Gull,Larus marinus,6,Central Park--Jacqueline Kennedy Onassis Reservoir,US-NY,28 Jul 2023,L191107,S145837218,,1
+65,6472,species,American Herring Gull,Larus smithsonianus,2,Central Park--Jacqueline Kennedy Onassis Reservoir,US-NY,28 Jul 2023,L191107,S145837218,,1
+66,6455,species,Ring-billed Gull,Larus delawarensis,12,Central Park--Jacqueline Kennedy Onassis Reservoir,US-NY,28 Jul 2023,L191107,S145837218,,1
+67,525,species,Mallard,Anas platyrhynchos,3,Central Park--Jacqueline Kennedy Onassis Reservoir,US-NY,28 Jul 2023,L191107,S145837218,,1
+25,21396,spuh,crow sp.,Corvus sp. (crow sp.),1,East Rockaway High School,US-NY,30 Jul 2023,L15138079,S146012945,,0
+63,6548,spuh,gull sp.,Larinae sp.,62,Central Park--Jacqueline Kennedy Onassis Reservoir,US-NY,28 Jul 2023,L191107,S145837218,,0

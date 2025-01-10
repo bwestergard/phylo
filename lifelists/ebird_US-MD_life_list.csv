@@ -1,0 +1,135 @@
+Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
+1,32842,species,Dark-eyed Junco,Junco hyemalis,10,Avondale Neighborhood Park,US-MD,08 Jan 2025,L5088934,S208546649,,1
+2,753,species,Ruddy Duck,Oxyura jamaicensis,10,Lake Artemesia,US-MD,05 Jan 2025,L265951,S208202293,,1
+3,669,species,Greater Scaup,Aythya marila,1,Lake Artemesia,US-MD,05 Jan 2025,L265951,S208202293,,1
+4,8161,species,Sharp-shinned Hawk,Accipiter striatus,1,Chillum Community Park,US-MD,01 Jan 2025,L26799657,S207538829,,1
+5,8228,species,Northern Harrier,Circus hudsonius,1,Bladensburg Waterfront Park,US-MD,15 Dec 2024,L795955,S205503960,,1
+6,11016,species,Yellow-bellied Sapsucker,Sphyrapicus varius,1,Lake Artemesia,US-MD,01 Dec 2024,L265951,S204297742,,1
+7,26599,species,Golden-crowned Kinglet,Regulus satrapa,1,West Hyattsville Metro Ponds,US-MD,23 Nov 2024,L23706897,S203390525,,1
+8,33033,species,Swamp Sparrow,Melospiza georgiana,1,West Hyattsville Metro Ponds,US-MD,29 Oct 2024,L23706897,S200682485,,1
+9,8410,species,Red-tailed Hawk,Buteo jamaicensis,1,West Hyattsville Metro Ponds,US-MD,29 Oct 2024,L23706897,S200682485,,1
+10,26595,species,Ruby-crowned Kinglet,Corthylio calendula,4,Jug Bay Wetlands Sanctuary,US-MD,27 Oct 2024,L126629,S200676679,,1
+11,33779,species,American Redstart,Setophaga ruticilla,1,West Hyattsville Metro Ponds,US-MD,14 Sep 2024,L23706897,S195100567,,1
+12,34308,species,Blue Grosbeak,Passerina caerulea,1,West Hyattsville Metro Ponds,US-MD,02 Jun 2024,L23706897,S179031616,,1
+13,9117,species,Barred Owl,Strix varia,1,Bladensburg Waterfront Park,US-MD,02 May 2024,L795955,S171900797,,1
+14,6854,species,Common Loon,Gavia immer,1,Lake Artemesia,US-MD,28 Apr 2024,L265951,S170799165,,1
+15,33863,species,Palm Warbler,Setophaga palmarum,1,Lake Frank,US-MD,13 Apr 2024,L224286,S168474103,,1
+16,32962,species,Savannah Sparrow,Passerculus sandwichensis,1,Bladensburg Waterfront Park,US-MD,04 Apr 2024,L795955,S167122501,,1
+17,6004,species,American Woodcock,Scolopax minor,4,Anacostia River Trail (PG Co.),US-MD,03 Mar 2024,L1306688,S163637509,,1
+18,6776,species,Pied-billed Grebe,Podilymbus podiceps,3,Lake Artemesia,US-MD,04 Feb 2024,L265951,S160631322,,1
+19,648,species,Ring-necked Duck,Aythya collaris,4,Lake Artemesia,US-MD,04 Feb 2024,L265951,S160631322,,1
+20,257,species,Snow Goose,Anser caerulescens,1,West Hyattsville Metro Ponds,US-MD,03 Feb 2024,L23706897,S160552001,,1
+21,737,species,Common Merganser,Mergus merganser,1,Bladensburg Waterfront Park,US-MD,04 Dec 2023,L795955,S155759561,,1
+22,717,species,Bufflehead,Bucephala albeola,1,"141 Riverview Avenue, Annapolis, Maryland, US (39.001, -76.507)",US-MD,23 Nov 2023,L28055168,S155064039,,1
+23,8183,species,Cooper's Hawk,Astur cooperii,2,West Hyattsville Metro Ponds,US-MD,26 Oct 2023,L23706897,S153084655,,1
+25,5614,species,Limpkin,Aramus guarauna,1,C&O Canal--Pennyfield Lock,US-MD,19 Aug 2023,L282676,S147621759,,1
+26,6714,species,Royal Tern,Thalasseus maximus,1,North Beach--fishing pier,US-MD,02 Jul 2023,L1485373,S143398188,,1
+28,33749,species,Common Yellowthroat,Geothlypis trichas,2,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,02 Jul 2023,L5939838,S143396816,,1
+29,28095,species,Wood Thrush,Hylocichla mustelina,1,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,02 Jul 2023,L5939838,S143396816,,1
+31,3188,species,Yellow-billed Cuckoo,Coccyzus americanus,2,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,02 Jul 2023,L5939838,S143396816,,1
+32,675,species,Lesser Scaup,Aythya affinis,1,Bladensburg Waterfront Park,US-MD,26 Jun 2023,L795955,S142868264,,1
+33,745,species,Red-breasted Merganser,Mergus serrator,1,Bladensburg Waterfront Park,US-MD,26 Jun 2023,L795955,S142848085,,1
+34,33883,species,Yellow-throated Warbler,Setophaga dominica,2,North Beach--marsh,US-MD,13 Jun 2023,L446548,S141427099,,1
+37,26683,species,Brown-headed Nuthatch,Sitta pusilla,1,Point Lookout State Park,US-MD,11 Jun 2023,L126618,S141240059,,1
+38,16757,species,Eastern Wood-Pewee,Contopus virens,2,Point Lookout State Park,US-MD,11 Jun 2023,L126618,S141240059,,1
+39,11035,species,Red-headed Woodpecker,Melanerpes erythrocephalus,2,Point Lookout State Park,US-MD,11 Jun 2023,L126618,S141240059,,1
+40,33868,species,Pine Warbler,Setophaga pinus,2,Point Lookout State Park,US-MD,11 Jun 2023,L126618,S141199076,,1
+41,32708,species,Chipping Sparrow,Spizella passerina,2,Point Lookout State Park,US-MD,11 Jun 2023,L126618,S141199076,,1
+42,6674,species,Common Tern,Sterna hirundo,2,Point Lookout State Park,US-MD,11 Jun 2023,L126618,S141199076,,1
+43,7697,species,Brown Pelican,Pelecanus occidentalis,2,Point Lookout SP--The Point,US-MD,10 Jun 2023,L1136127,S141168263,,1
+44,6494,species,Great Black-backed Gull,Larus marinus,2,Point Lookout SP--The Point,US-MD,10 Jun 2023,L1136127,S141168263,,1
+45,6472,species,American Herring Gull,Larus smithsonianus,2,Point Lookout SP--The Point,US-MD,10 Jun 2023,L1136127,S141168263,,1
+46,6424,species,Laughing Gull,Leucophaeus atricilla,13,Point Lookout SP--The Point,US-MD,10 Jun 2023,L1136127,S141168263,,1
+47,6168,species,Semipalmated Sandpiper,Calidris pusilla,1,Flag Ponds Nature Park,US-MD,10 Jun 2023,L249433,S141168335,,1
+48,33784,species,Northern Parula,Setophaga americana,1,West Hyattsville Metro Ponds,US-MD,04 Jun 2023,L23706897,S140456050,,1
+49,16783,species,Acadian Flycatcher,Empidonax virescens,1,West Hyattsville Metro Ponds,US-MD,02 Jun 2023,L23706897,S140200197,,1
+52,6657,species,Forster's Tern,Sterna forsteri,3,North Beach--marsh,US-MD,28 May 2023,L446548,S139652259,,1
+54,23851,species,Purple Martin,Progne subis,3,Patuxent River Park--Jackson Landing,US-MD,28 May 2023,L882481,S139618594,,1
+55,17165,species,Great Crested Flycatcher,Myiarchus crinitus,2,West Hyattsville Metro Ponds,US-MD,26 May 2023,L23706897,S139288684,,1
+56,7557,species,Snowy Egret,Egretta thula,5,North Beach--marsh,US-MD,21 May 2023,L446548,S138728600,,1
+57,32034,species,House Finch,Haemorhous mexicanus,1,Jug Bay Wetlands Sanctuary--Nature Center,US-MD,21 May 2023,L15671502,S138713541,N,1
+58,26640,species,White-breasted Nuthatch,Sitta carolinensis,1,Jug Bay Wetlands Sanctuary--Nature Center,US-MD,21 May 2023,L15671502,S138713541,,1
+59,34145,species,Scarlet Tanager,Piranga olivacea,1,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,21 May 2023,L5939838,S138708337,,1
+60,33853,species,Blackpoll Warbler,Setophaga striata,2,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,21 May 2023,L5939838,S138708337,,1
+61,33676,species,Northern Waterthrush,Parkesia noveboracensis,1,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,21 May 2023,L5939838,S138708337,,1
+62,27795,species,Brown Thrasher,Toxostoma rufum,2,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,21 May 2023,L5939838,S138708337,,1
+63,21936,species,Tufted Titmouse,Baeolophus bicolor,2,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,21 May 2023,L5939838,S138708337,,1
+64,21836,species,Carolina Chickadee,Poecile carolinensis,1,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,21 May 2023,L5939838,S138708337,,1
+65,18966,species,White-eyed Vireo,Vireo griseus,1,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,21 May 2023,L5939838,S138708337,,1
+66,16840,species,Eastern Phoebe,Sayornis phoebe,1,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,21 May 2023,L5939838,S138708337,,1
+67,7635,species,Great Egret,Ardea alba,1,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,21 May 2023,L5939838,S138708337,,1
+68,4747,species,Ruby-throated Hummingbird,Archilochus colubris,1,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,21 May 2023,L5939838,S138708337,,1
+69,5777,species,Semipalmated Plover,Charadrius semipalmatus,4,Bladensburg Waterfront Park,US-MD,17 May 2023,L795955,S138187655,,1
+70,34317,species,Indigo Bunting,Passerina cyanea,1,West Hyattsville Metro Ponds,US-MD,17 May 2023,L23706897,S138103502,,1
+71,11647,species,Pileated Woodpecker,Dryocopus pileatus,1,West Hyattsville Metro Ponds,US-MD,17 May 2023,L23706897,S138103502,,1
+72,33686,species,Prothonotary Warbler,Protonotaria citrea,1,West Hyattsville Metro Ponds,US-MD,16 May 2023,L23706897,S137973267,,1
+73,29618,species,Cedar Waxwing,Bombycilla cedrorum,3,West Hyattsville Metro Ponds,US-MD,16 May 2023,L23706897,S137973267,,1
+75,19067,species,Red-eyed Vireo,Vireo olivaceus,1,West Hyattsville Metro Ponds,US-MD,16 May 2023,L23706897,S137973267,,1
+76,11785,species,Northern Flicker,Colaptes auratus,1,West Hyattsville Metro Ponds,US-MD,16 May 2023,L23706897,S137973267,,1
+77,11314,species,Hairy Woodpecker,Dryobates villosus,1,Bladensburg Waterfront Park,US-MD,10 May 2023,L795955,S136874667,,1
+78,6162,species,Least Sandpiper,Calidris minutilla,6,Bladensburg Waterfront Park,US-MD,10 May 2023,L795955,S136874667,,1
+79,6092,species,Greater Yellowlegs,Tringa melanoleuca,1,Bladensburg Waterfront Park,US-MD,10 May 2023,L795955,S136874667,,1
+80,19045,species,Warbling Vireo,Vireo gilvus,1,Bladensburg Waterfront Park,US-MD,06 May 2023,L795955,S136257222,,1
+81,33491,species,Baltimore Oriole,Icterus galbula,1,West Hyattsville Metro Ponds,US-MD,05 May 2023,L23706897,S136133622,,1
+82,7611,species,Green Heron,Butorides virescens,1,West Hyattsville Metro Ponds,US-MD,05 May 2023,L23706897,S136133622,,1
+83,6083,species,Lesser Yellowlegs,Tringa flavipes,7,West Hyattsville Metro Ponds,US-MD,05 May 2023,L23706897,S136133622,,1
+84,7513,species,Black-crowned Night Heron,Nycticorax nycticorax,1,West Hyattsville Metro Ponds,US-MD,01 May 2023,L23706897,S135754940,,1
+85,33401,species,Orchard Oriole,Icterus spurius,1,Bladensburg Waterfront Park,US-MD,01 May 2023,L795955,S135754950,,1
+86,11287,species,Downy Woodpecker,Dryobates pubescens,1,Bladensburg Waterfront Park,US-MD,01 May 2023,L795955,S135754950,,1
+87,6064,species,Spotted Sandpiper,Actitis macularius,2,Bladensburg Waterfront Park,US-MD,01 May 2023,L795955,S135754950,,1
+88,468,species,Blue-winged Teal,Spatula discors,1,Bladensburg Waterfront Park,US-MD,01 May 2023,L795955,S135754950,,1
+89,6067,species,Solitary Sandpiper,Tringa solitaria,1,West Hyattsville Metro Ponds,US-MD,01 May 2023,L23706897,S135754975,,1
+90,32338,species,American Goldfinch,Spinus tristis,2,West Hyattsville Metro Ponds,US-MD,01 May 2023,L23706897,S135678934,,1
+91,27758,species,Gray Catbird,Dumetella carolinensis,2,West Hyattsville Metro Ponds,US-MD,01 May 2023,L23706897,S135678934,,1
+92,441,species,Wood Duck,Aix sponsa,1,West Hyattsville Metro Ponds,US-MD,01 May 2023,L23706897,S135678934,,1
+93,33556,species,Brown-headed Cowbird,Molothrus ater,2,Bladensburg Waterfront Park,US-MD,01 May 2023,L795955,S135678960,,1
+94,32995,species,Song Sparrow,Melospiza melodia,2,Bladensburg Waterfront Park,US-MD,01 May 2023,L795955,S135678960,,1
+95,11088,species,Red-bellied Woodpecker,Melanerpes carolinus,1,West Hyattsville Metro Ponds,US-MD,24 Apr 2023,L23706897,S134840823,,1
+96,27881,species,Eastern Bluebird,Sialia sialis,1,Bladensburg Waterfront Park,US-MD,24 Apr 2023,L795955,S134837703,,1
+97,27870,species,Northern Mockingbird,Mimus polyglottos,1,Bladensburg Waterfront Park,US-MD,24 Apr 2023,L795955,S134837703,,1
+98,8391,species,Red-shouldered Hawk,Buteo lineatus,1,Bladensburg Waterfront Park,US-MD,24 Apr 2023,L795955,S134837703,,1
+100,34224,species,Northern Cardinal,Cardinalis cardinalis,1,Avondale Neighborhood Park,US-MD,20 Apr 2023,L5088934,S134411861,,1
+101,33874,species,Yellow-rumped Warbler,Setophaga coronata,2,Avondale Neighborhood Park,US-MD,20 Apr 2023,L5088934,S134411861,,1
+102,33136,species,Eastern Towhee,Pipilo erythrophthalmus,1,Avondale Neighborhood Park,US-MD,20 Apr 2023,L5088934,S134411861,,1
+103,27107,species,Carolina Wren,Thryothorus ludovicianus,1,Avondale Neighborhood Park,US-MD,20 Apr 2023,L5088934,S134411861,,1
+104,26942,species,Northern House Wren,Troglodytes aedon,1,Avondale Neighborhood Park,US-MD,20 Apr 2023,L5088934,S134411861,,1
+105,21333,species,American Crow,Corvus brachyrhynchos,1,Avondale Neighborhood Park,US-MD,20 Apr 2023,L5088934,S134411861,,1
+106,21066,species,Blue Jay,Cyanocitta cristata,1,Avondale Neighborhood Park,US-MD,20 Apr 2023,L5088934,S134411861,,1
+107,17302,species,Eastern Kingbird,Tyrannus tyrannus,1,West Hyattsville Metro Ponds,US-MD,20 Apr 2023,L23706897,S134354809,,1
+108,32919,species,White-throated Sparrow,Zonotrichia albicollis,1,Bladensburg Waterfront Park,US-MD,20 Apr 2023,L795955,S134350450,,1
+109,31261,species,House Sparrow,Passer domesticus,10,Bladensburg Waterfront Park,US-MD,20 Apr 2023,L795955,S134350450,N,1
+110,26874,species,Blue-gray Gnatcatcher,Polioptila caerulea,2,Bladensburg Waterfront Park,US-MD,20 Apr 2023,L795955,S134350450,,1
+111,8271,species,Bald Eagle,Haliaeetus leucocephalus,1,Bladensburg Waterfront Park,US-MD,20 Apr 2023,L795955,S134350450,,1
+112,3842,species,Chimney Swift,Chaetura pelagica,4,Bladensburg Waterfront Park,US-MD,20 Apr 2023,L795955,S134350450,,1
+113,23957,species,Barn Swallow,Hirundo rustica,3,Bladensburg Waterfront Park,US-MD,17 Apr 2023,L795955,S134135185,,1
+114,23876,species,Northern Rough-winged Swallow,Stelgidopteryx serripennis,1,Bladensburg Waterfront Park,US-MD,17 Apr 2023,L795955,S134135185,,1
+115,23834,species,Tree Swallow,Tachycineta bicolor,2,Bladensburg Waterfront Park,US-MD,17 Apr 2023,L795955,S134135185,,1
+116,6644,species,Caspian Tern,Hydroprogne caspia,1,Bladensburg Waterfront Park,US-MD,17 Apr 2023,L795955,S134135185,,1
+117,2373,species,Mourning Dove,Zenaida macroura,2,Bladensburg Waterfront Park,US-MD,17 Apr 2023,L795955,S134135185,,1
+118,729,species,Hooded Merganser,Lophodytes cucullatus,2,Bladensburg Waterfront Park,US-MD,17 Apr 2023,L795955,S134135185,,1
+119,7658,species,Great Blue Heron,Ardea herodias,5,Bladensburg Waterfront Park,US-MD,10 Apr 2023,L795955,S133363358,,1
+120,27571,species,European Starling,Sturnus vulgaris,50,Bladensburg Waterfront Park,US-MD,10 Apr 2023,L795955,S133362248,N,1
+121,10202,species,Belted Kingfisher,Megaceryle alcyon,1,Bladensburg Waterfront Park,US-MD,10 Apr 2023,L795955,S133362248,,1
+122,7737,species,Osprey,Pandion haliaetus,1,Bladensburg Waterfront Park,US-MD,10 Apr 2023,L795955,S133362248,,1
+123,7720,species,Turkey Vulture,Cathartes aura,1,Bladensburg Waterfront Park,US-MD,10 Apr 2023,L795955,S133362248,,1
+124,5770,species,Killdeer,Charadrius vociferus,4,Bladensburg Waterfront Park,US-MD,10 Apr 2023,L795955,S133362248,,1
+125,1817,species,Rock Pigeon,Columba livia,3,Bladensburg Waterfront Park,US-MD,10 Apr 2023,L795955,S133362248,N,1
+126,33576,species,Common Grackle,Quiscalus quiscula,1,Bladensburg Waterfront Park,US-MD,09 Apr 2023,L795955,S133234778,,1
+127,28313,species,American Robin,Turdus migratorius,1,Bladensburg Waterfront Park,US-MD,09 Apr 2023,L795955,S133234778,,1
+128,21346,species,Fish Crow,Corvus ossifragus,40,Bladensburg Waterfront Park,US-MD,09 Apr 2023,L795955,S133234778,,1
+129,7716,species,Black Vulture,Coragyps atratus,1,Bladensburg Waterfront Park,US-MD,09 Apr 2023,L795955,S133234778,,1
+130,7342,species,Double-crested Cormorant,Nannopterum auritum,29,Bladensburg Waterfront Park,US-MD,09 Apr 2023,L795955,S133234778,,1
+131,6455,species,Ring-billed Gull,Larus delawarensis,30,Bladensburg Waterfront Park,US-MD,09 Apr 2023,L795955,S133234778,,1
+132,525,species,Mallard,Anas platyrhynchos,1,Bladensburg Waterfront Park,US-MD,09 Apr 2023,L795955,S133234778,,1
+133,330,species,Canada Goose,Branta canadensis,1,Bladensburg Waterfront Park,US-MD,09 Apr 2023,L795955,S133234778,,1
+134,33500,species,Red-winged Blackbird,Agelaius phoeniceus,3,Anacostia River Trail (PG Co.),US-MD,09 Apr 2023,L1306688,S133228465,,1
+24,8477,spuh,Buteo sp.,Buteo sp.,1,"Northwest Branch, Anacostia River",US-MD,16 Sep 2023,L3247711,S150004995,,0
+27,6681,slash,Forster's/Common Tern,Sterna forsteri/hirundo,38,North Beach--fishing pier,US-MD,02 Jul 2023,L1485373,S143398188,,0
+30,17329,spuh,new world flycatcher sp.,Tyrannidae sp.,1,Jug Bay Wetlands--Otter Point-Two Run Trail Loop,US-MD,02 Jul 2023,L5939838,S143396816,,0
+35,8480,spuh,hawk sp.,Accipitridae sp. (hawk sp.),1,Fishing Creek Marsh,US-MD,12 Jun 2023,L505525,S141344483,,0
+36,6728,spuh,tern sp.,Sterninae sp.,1,North Beach--fishing pier,US-MD,12 Jun 2023,L1485373,S141322687,,0
+50,767,spuh,duck sp.,Anatidae (duck sp.),1,West Hyattsville Metro Ponds,US-MD,01 Jun 2023,L23706897,S140155430,,0
+51,6548,spuh,gull sp.,Larinae sp.,1,North Beach--fishing pier,US-MD,28 May 2023,L1485373,S139659018,,0
+53,24075,spuh,swallow sp.,Hirundinidae sp.,1,Patuxent River Park--Jackson Landing,US-MD,28 May 2023,L882481,S139637325,,0
+74,21348,slash,American/Fish Crow,Corvus brachyrhynchos/ossifragus,2,West Hyattsville Metro Ponds,US-MD,16 May 2023,L23706897,S137973267,,0
+99,6291,spuh,shorebird sp.,Charadriiformes sp. (shorebird sp.),4,Bladensburg Waterfront Park,US-MD,24 Apr 2023,L795955,S134837703,,0

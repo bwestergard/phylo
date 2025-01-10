@@ -1,0 +1,52 @@
+Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
+1,8410,species,Red-tailed Hawk,Buteo jamaicensis,1,Metro Park Train Station,US-NJ,24 Dec 2024,L38822000,S206428055,,1
+2,11947,species,Merlin,Falco columbarius,1,Cape Island--Garrett Family Preserve (TNC),US-NJ,21 Oct 2023,L338274,S152764712,,1
+3,10202,species,Belted Kingfisher,Megaceryle alcyon,1,Cape Island--Garrett Family Preserve (TNC),US-NJ,21 Oct 2023,L338274,S152762021,,1
+4,7658,species,Great Blue Heron,Ardea herodias,1,Cape Island--Garrett Family Preserve (TNC),US-NJ,21 Oct 2023,L338274,S152762021,,1
+5,1817,species,Rock Pigeon,Columba livia,2,Cape Island--Garrett Family Preserve (TNC),US-NJ,21 Oct 2023,L338274,S152762021,N,1
+6,7251,species,Northern Gannet,Morus bassanus,2,Avalon--8th St. Jetty (Avalon Seawatch 2015-present),US-NJ,21 Oct 2023,L673585,S152744625,,1
+7,6644,species,Caspian Tern,Hydroprogne caspia,2,Avalon--8th St. Jetty (Avalon Seawatch 2015-present),US-NJ,21 Oct 2023,L673585,S152744625,,1
+8,6130,species,Dunlin,Calidris alpina,2,Avalon--8th St. Jetty (Avalon Seawatch 2015-present),US-NJ,21 Oct 2023,L673585,S152744625,,1
+10,7720,species,Turkey Vulture,Cathartes aura,2,Cape Island--Higbee Beach WMA,US-NJ,21 Oct 2023,L109135,S152727586,,1
+11,26599,species,Golden-crowned Kinglet,Regulus satrapa,1,Cape Island--Higbee Beach WMA,US-NJ,21 Oct 2023,L109135,S152726622,,1
+12,6776,species,Pied-billed Grebe,Podilymbus podiceps,3,Cape Island--CMPSP--Hawkwatch Platform,US-NJ,20 Oct 2023,L92443,S152689574,,1
+13,5443,species,American Coot,Fulica americana,3,Cape Island--CMPSP--Hawkwatch Platform,US-NJ,20 Oct 2023,L92443,S152689574,,1
+14,753,species,Ruddy Duck,Oxyura jamaicensis,2,Cape Island--CMPSP--Hawkwatch Platform,US-NJ,20 Oct 2023,L92443,S152689574,,1
+15,588,species,Green-winged Teal,Anas crecca,4,Cape Island--CMPSP--Hawkwatch Platform,US-NJ,20 Oct 2023,L92443,S152689574,,1
+16,497,species,American Wigeon,Mareca americana,12,Cape Island--CMPSP--Hawkwatch Platform,US-NJ,20 Oct 2023,L92443,S152689574,,1
+17,33581,species,Boat-tailed Grackle,Quiscalus major,4,Ocean Drive--Middle Thorofare Bridge & fish docks,US-NJ,20 Oct 2023,L1329429,S152707892,,1
+18,11997,species,Peregrine Falcon,Falco peregrinus,1,Ocean Drive--Middle Thorofare Bridge & fish docks,US-NJ,20 Oct 2023,L1329429,S152707892,,1
+19,8271,species,Bald Eagle,Haliaeetus leucocephalus,1,Ocean Drive--Middle Thorofare Bridge & fish docks,US-NJ,20 Oct 2023,L1329429,S152707892,,1
+20,8228,species,Northern Harrier,Circus hudsonius,1,Ocean Drive--Middle Thorofare Bridge & fish docks,US-NJ,20 Oct 2023,L1329429,S152707892,,1
+21,7635,species,Great Egret,Ardea alba,7,Ocean Drive--Middle Thorofare Bridge & fish docks,US-NJ,20 Oct 2023,L1329429,S152707892,,1
+22,7557,species,Snowy Egret,Egretta thula,5,Ocean Drive--Middle Thorofare Bridge & fish docks,US-NJ,20 Oct 2023,L1329429,S152707892,,1
+23,27870,species,Northern Mockingbird,Mimus polyglottos,1,Champagne Island,US-NJ,20 Oct 2023,L491378,S152707738,,1
+24,6714,species,Royal Tern,Thalasseus maximus,1,Champagne Island,US-NJ,20 Oct 2023,L491378,S152707738,,1
+25,6127,species,Sanderling,Calidris alba,11,Champagne Island,US-NJ,20 Oct 2023,L491378,S152707738,,1
+26,5777,species,Semipalmated Plover,Charadrius semipalmatus,3,Champagne Island,US-NJ,20 Oct 2023,L491378,S152707738,,1
+27,5754,species,Black-bellied Plover,Pluvialis squatarola,3,Champagne Island,US-NJ,20 Oct 2023,L491378,S152707738,,1
+28,11785,species,Northern Flicker,Colaptes auratus,1,Cape Island--South Cape May Meadows (SCMM),US-NJ,20 Oct 2023,L109136,S152707637,,1
+29,5411,species,Common Gallinule,Gallinula galeata,1,Cape Island--South Cape May Meadows (SCMM),US-NJ,20 Oct 2023,L109136,S152707637,,1
+30,7342,species,Double-crested Cormorant,Nannopterum auritum,1,Cape Island--2nd Ave. jetty/pavilion,US-NJ,19 Oct 2023,L269018,S152602555,,1
+31,6657,species,Forster's Tern,Sterna forsteri,1,Cape Island--2nd Ave. jetty/pavilion,US-NJ,19 Oct 2023,L269018,S152602555,,1
+32,6455,species,Ring-billed Gull,Larus delawarensis,3,Cape Island--2nd Ave. jetty/pavilion,US-NJ,19 Oct 2023,L269018,S152602555,,1
+33,6099,species,Ruddy Turnstone,Arenaria interpres,3,Cape Island--2nd Ave. jetty/pavilion,US-NJ,19 Oct 2023,L269018,S152602555,,1
+34,712,species,Black Scoter,Melanitta americana,9,Cape Island--2nd Ave. jetty/pavilion,US-NJ,19 Oct 2023,L269018,S152602555,,1
+35,23834,species,Tree Swallow,Tachycineta bicolor,750,Cape Island--South Cape May beach (CMPSP & SCMM),US-NJ,19 Oct 2023,L1269935,S152598955,,1
+37,6508,species,Lesser Black-backed Gull,Larus fuscus,1,Cape Island--South Cape May beach (CMPSP & SCMM),US-NJ,19 Oct 2023,L1269935,S152598955,,1
+38,6494,species,Great Black-backed Gull,Larus marinus,1,Cape Island--South Cape May beach (CMPSP & SCMM),US-NJ,19 Oct 2023,L1269935,S152598955,,1
+39,6472,species,American Herring Gull,Larus smithsonianus,4,Cape Island--South Cape May beach (CMPSP & SCMM),US-NJ,19 Oct 2023,L1269935,S152598955,,1
+40,6424,species,Laughing Gull,Leucophaeus atricilla,1,Cape Island--South Cape May beach (CMPSP & SCMM),US-NJ,19 Oct 2023,L1269935,S152598955,,1
+41,34224,species,Northern Cardinal,Cardinalis cardinalis,1,Cape Island--South Cape May Meadows (SCMM),US-NJ,19 Oct 2023,L109136,S152596455,,1
+42,33874,species,Yellow-rumped Warbler,Setophaga coronata,15,Cape Island--South Cape May Meadows (SCMM),US-NJ,19 Oct 2023,L109136,S152596455,,1
+43,33749,species,Common Yellowthroat,Geothlypis trichas,3,Cape Island--South Cape May Meadows (SCMM),US-NJ,19 Oct 2023,L109136,S152596455,,1
+44,33033,species,Swamp Sparrow,Melospiza georgiana,2,Cape Island--South Cape May Meadows (SCMM),US-NJ,19 Oct 2023,L109136,S152596455,,1
+45,27571,species,European Starling,Sturnus vulgaris,5,Cape Island--South Cape May Meadows (SCMM),US-NJ,19 Oct 2023,L109136,S152596455,N,1
+46,27107,species,Carolina Wren,Thryothorus ludovicianus,2,Cape Island--South Cape May Meadows (SCMM),US-NJ,19 Oct 2023,L109136,S152596455,,1
+47,21333,species,American Crow,Corvus brachyrhynchos,5,Cape Island--South Cape May Meadows (SCMM),US-NJ,19 Oct 2023,L109136,S152596455,,1
+48,525,species,Mallard,Anas platyrhynchos,6,Cape Island--South Cape May Meadows (SCMM),US-NJ,19 Oct 2023,L109136,S152596455,,1
+49,483,species,Northern Shoveler,Spatula clypeata,2,Cape Island--South Cape May Meadows (SCMM),US-NJ,19 Oct 2023,L109136,S152596455,,1
+50,365,species,Mute Swan,Cygnus olor,3,Cape Island--South Cape May Meadows (SCMM),US-NJ,19 Oct 2023,L109136,S152596455,N,1
+51,330,species,Canada Goose,Branta canadensis,25,Cape Island--South Cape May Meadows (SCMM),US-NJ,19 Oct 2023,L109136,S152596455,,1
+9,715,spuh,scoter sp.,Melanitta sp.,15,Avalon--8th St. Jetty (Avalon Seawatch 2015-present),US-NJ,21 Oct 2023,L673585,S152744625,,0
+36,6548,spuh,gull sp.,Larinae sp.,70,Cape Island--South Cape May beach (CMPSP & SCMM),US-NJ,19 Oct 2023,L1269935,S152598955,,0

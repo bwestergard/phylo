@@ -1,0 +1,60 @@
+Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
+1,11016,species,Yellow-bellied Sapsucker,Sphyrapicus varius,1,"219 Grass Dale Lane, Crozet, Virginia, US (38.065, -78.712)",US-VA,25 Dec 2024,L38846625,S206534005,,1
+2,27054,species,Winter Wren,Troglodytes hiemalis,1,Lickinghole Creek,US-VA,25 Dec 2024,L1397102,S206530169,,1
+3,28081,species,Hermit Thrush,Catharus guttatus,1,Lickinghole Creek,US-VA,25 Dec 2024,L1397102,S206529609,,1
+4,26595,species,Ruby-crowned Kinglet,Corthylio calendula,1,Lickinghole Creek,US-VA,25 Dec 2024,L1397102,S206529609,,1
+5,11314,species,Hairy Woodpecker,Dryobates villosus,1,Lickinghole Creek,US-VA,25 Dec 2024,L1397102,S206529609,,1
+7,32995,species,Song Sparrow,Melospiza melodia,1,Huntley Meadows Park--Observation Tower,US-VA,24 Mar 2024,L1267694,S165880765,,1
+8,26640,species,White-breasted Nuthatch,Sitta carolinensis,3,Huntley Meadows Park--Observation Tower,US-VA,24 Mar 2024,L1267694,S165880765,,1
+9,26599,species,Golden-crowned Kinglet,Regulus satrapa,1,Huntley Meadows Park--Observation Tower,US-VA,24 Mar 2024,L1267694,S165880765,,1
+10,21936,species,Tufted Titmouse,Baeolophus bicolor,1,Huntley Meadows Park--Observation Tower,US-VA,24 Mar 2024,L1267694,S165880765,,1
+11,33033,species,Swamp Sparrow,Melospiza georgiana,3,Huntley Meadows Park--Cedar Trail Loop,US-VA,24 Mar 2024,L5640834,S165880722,,1
+12,16840,species,Eastern Phoebe,Sayornis phoebe,1,Huntley Meadows Park--Cedar Trail Loop,US-VA,24 Mar 2024,L5640834,S165880722,,1
+13,6042,species,Wilson's Snipe,Gallinago delicata,2,Huntley Meadows Park--Cedar Trail Loop,US-VA,24 Mar 2024,L5640834,S165880722,,1
+14,588,species,Green-winged Teal,Anas crecca,11,Huntley Meadows Park--Cedar Trail Loop,US-VA,24 Mar 2024,L5640834,S165880722,,1
+15,441,species,Wood Duck,Aix sponsa,2,Huntley Meadows Park--Cedar Trail Loop,US-VA,24 Mar 2024,L5640834,S165880722,,1
+16,1817,species,Rock Pigeon,Columba livia,52,Rosslyn Metro Plaza,US-VA,24 Feb 2024,L29478921,S162780143,N,1
+17,32842,species,Dark-eyed Junco,Junco hyemalis,4,Mint Springs Valley Park,US-VA,25 Dec 2023,L618810,S157086068,,1
+18,29618,species,Cedar Waxwing,Bombycilla cedrorum,1,Mint Springs Valley Park,US-VA,25 Dec 2023,L618810,S157086068,,1
+19,11785,species,Northern Flicker,Colaptes auratus,2,Mint Springs Valley Park,US-VA,25 Dec 2023,L618810,S157086068,,1
+20,11287,species,Downy Woodpecker,Dryobates pubescens,2,Mint Springs Valley Park,US-VA,25 Dec 2023,L618810,S157086068,,1
+21,33874,species,Yellow-rumped Warbler,Setophaga coronata,1,Albemarle County Community Park,US-VA,24 Dec 2023,L879463,S157030431,,1
+22,32919,species,White-throated Sparrow,Zonotrichia albicollis,2,Albemarle County Community Park,US-VA,24 Dec 2023,L879463,S157030431,,1
+23,21836,species,Carolina Chickadee,Poecile carolinensis,1,Albemarle County Community Park,US-VA,24 Dec 2023,L879463,S157030431,,1
+24,21333,species,American Crow,Corvus brachyrhynchos,4,Albemarle County Community Park,US-VA,24 Dec 2023,L879463,S157030431,,1
+25,8391,species,Red-shouldered Hawk,Buteo lineatus,1,Great Falls Park,US-VA,18 Jun 2023,L718485,S142025388,,1
+26,7720,species,Turkey Vulture,Cathartes aura,1,Great Falls Park,US-VA,18 Jun 2023,L718485,S142025388,,1
+27,7716,species,Black Vulture,Coragyps atratus,4,Great Falls Park,US-VA,18 Jun 2023,L718485,S142025388,,1
+28,33749,species,Common Yellowthroat,Geothlypis trichas,1,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+29,33576,species,Common Grackle,Quiscalus quiscula,4,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+30,33500,species,Red-winged Blackbird,Agelaius phoeniceus,15,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+31,33491,species,Baltimore Oriole,Icterus galbula,1,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+32,33401,species,Orchard Oriole,Icterus spurius,2,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+33,32034,species,House Finch,Haemorhous mexicanus,2,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,N,1
+34,31261,species,House Sparrow,Passer domesticus,6,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,N,1
+35,27758,species,Gray Catbird,Dumetella carolinensis,1,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+36,27571,species,European Starling,Sturnus vulgaris,5,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,N,1
+37,26874,species,Blue-gray Gnatcatcher,Polioptila caerulea,4,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+38,23957,species,Barn Swallow,Hirundo rustica,1,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+39,23876,species,Northern Rough-winged Swallow,Stelgidopteryx serripennis,2,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+40,23834,species,Tree Swallow,Tachycineta bicolor,3,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+41,21346,species,Fish Crow,Corvus ossifragus,5,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+42,11088,species,Red-bellied Woodpecker,Melanerpes carolinus,3,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+43,9117,species,Barred Owl,Strix varia,2,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+44,8811,species,Great Horned Owl,Bubo virginianus,2,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+45,8271,species,Bald Eagle,Haliaeetus leucocephalus,3,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+46,7737,species,Osprey,Pandion haliaetus,2,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+47,7658,species,Great Blue Heron,Ardea herodias,2,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+48,7342,species,Double-crested Cormorant,Nannopterum auritum,2,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+49,2373,species,Mourning Dove,Zenaida macroura,2,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+50,525,species,Mallard,Anas platyrhynchos,1,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+51,330,species,Canada Goose,Branta canadensis,4,Dyke Marsh Wildlife Preserve,US-VA,07 May 2023,L159300,S136486040,,1
+52,34224,species,Northern Cardinal,Cardinalis cardinalis,1,Cedar Run,US-VA,23 Apr 2023,L1537791,S134793703,,1
+53,33779,species,American Redstart,Setophaga ruticilla,4,Cedar Run,US-VA,23 Apr 2023,L1537791,S134793703,,1
+54,33675,species,Louisiana Waterthrush,Parkesia motacilla,2,Cedar Run,US-VA,23 Apr 2023,L1537791,S134793703,,1
+55,33136,species,Eastern Towhee,Pipilo erythrophthalmus,1,Cedar Run,US-VA,23 Apr 2023,L1537791,S134793703,,1
+56,32338,species,American Goldfinch,Spinus tristis,5,Cedar Run,US-VA,23 Apr 2023,L1537791,S134793703,,1
+57,28313,species,American Robin,Turdus migratorius,1,Cedar Run,US-VA,23 Apr 2023,L1537791,S134793703,,1
+58,27107,species,Carolina Wren,Thryothorus ludovicianus,2,Cedar Run,US-VA,23 Apr 2023,L1537791,S134793703,,1
+59,19021,species,Yellow-throated Vireo,Vireo flavifrons,1,Cedar Run,US-VA,23 Apr 2023,L1537791,S134793703,,1
+6,8477,spuh,Buteo sp.,Buteo sp.,1,Blue Ridge Parkway--Afton Overlook,US-VA,12 May 2024,L4725846,S174008390,,0

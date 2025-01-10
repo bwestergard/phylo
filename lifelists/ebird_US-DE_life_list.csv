@@ -1,0 +1,56 @@
+Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
+1,31261,species,House Sparrow,Passer domesticus,10,Bombay Hook NWR--Refuge Headquarters,US-DE,22 Sep 2024,L657122,S196127538,N,1
+2,27881,species,Eastern Bluebird,Sialia sialis,2,Bombay Hook NWR--Refuge Headquarters,US-DE,22 Sep 2024,L657122,S196127538,,1
+3,7377,species,White Ibis,Eudocimus albus,2,Bombay Hook NWR--Shearness Observation Tower trail and fields,US-DE,22 Sep 2024,L1120035,S196125475,,1
+4,525,species,Mallard,Anas platyrhynchos,5,Bombay Hook NWR--Shearness Observation Tower trail and fields,US-DE,22 Sep 2024,L1120035,S196125475,,1
+5,27870,species,Northern Mockingbird,Mimus polyglottos,1,Bombay Hook NWR--Raymond Pool,US-DE,22 Sep 2024,L483327,S196116846,,1
+7,26874,species,Blue-gray Gnatcatcher,Polioptila caerulea,1,Cape Henlopen Hawk Watch,US-DE,21 Sep 2024,L778549,S195945531,,1
+8,8228,species,Northern Harrier,Circus hudsonius,1,Cape Henlopen Hawk Watch,US-DE,21 Sep 2024,L778549,S195945531,,1
+9,8161,species,Sharp-shinned Hawk,Accipiter striatus,,Cape Henlopen Hawk Watch,US-DE,21 Sep 2024,L778549,S195945531,,1
+10,6508,species,Lesser Black-backed Gull,Larus fuscus,,Cape Henlopen Hawk Watch,US-DE,21 Sep 2024,L778549,S195945531,,1
+11,11947,species,Merlin,Falco columbarius,1,Cape Henlopen Hawk Watch,US-DE,22 Oct 2023,L778549,S152837163,,1
+12,11913,species,American Kestrel,Falco sparverius,1,Cape Henlopen Hawk Watch,US-DE,22 Oct 2023,L778549,S152837163,,1
+13,8183,species,Cooper's Hawk,Astur cooperii,1,Cape Henlopen Hawk Watch,US-DE,22 Oct 2023,L778549,S152837163,,1
+14,23957,species,Barn Swallow,Hirundo rustica,,DuPont Nature Center and Lighthouse Rd.,US-DE,09 Aug 2023,L549315,S146871175,,1
+15,7697,species,Brown Pelican,Pelecanus occidentalis,2,DuPont Nature Center and Lighthouse Rd.,US-DE,09 Aug 2023,L549315,S146871175,,1
+16,6714,species,Royal Tern,Thalasseus maximus,5,DuPont Nature Center and Lighthouse Rd.,US-DE,09 Aug 2023,L549315,S146871175,,1
+17,6644,species,Caspian Tern,Hydroprogne caspia,2,DuPont Nature Center and Lighthouse Rd.,US-DE,09 Aug 2023,L549315,S146871175,,1
+18,6455,species,Ring-billed Gull,Larus delawarensis,2,DuPont Nature Center and Lighthouse Rd.,US-DE,09 Aug 2023,L549315,S146871175,,1
+19,6127,species,Sanderling,Calidris alba,1,DuPont Nature Center and Lighthouse Rd.,US-DE,09 Aug 2023,L549315,S146871175,,1
+20,6099,species,Ruddy Turnstone,Arenaria interpres,8,DuPont Nature Center and Lighthouse Rd.,US-DE,09 Aug 2023,L549315,S146871175,,1
+21,7737,species,Osprey,Pandion haliaetus,1,Bombay Hook National Wildlife Refuge,US-DE,09 Aug 2023,L126637,S146871322,,1
+22,33401,species,Orchard Oriole,Icterus spurius,1,Bombay Hook National Wildlife Refuge,US-DE,09 Aug 2023,L126637,S146871283,,1
+23,8271,species,Bald Eagle,Haliaeetus leucocephalus,1,Bombay Hook National Wildlife Refuge,US-DE,09 Aug 2023,L126637,S146871283,,1
+24,5777,species,Semipalmated Plover,Charadrius semipalmatus,,Bombay Hook National Wildlife Refuge,US-DE,09 Aug 2023,L126637,S146871283,,1
+25,5723,species,American Avocet,Recurvirostra americana,50,Bombay Hook National Wildlife Refuge,US-DE,09 Aug 2023,L126637,S146871283,,1
+26,753,species,Ruddy Duck,Oxyura jamaicensis,1,Bombay Hook National Wildlife Refuge,US-DE,09 Aug 2023,L126637,S146871283,,1
+27,27088,species,Marsh Wren,Cistothorus palustris,2,Bombay Hook NWR--Shearness Pool,US-DE,09 Aug 2023,L483019,S146871260,,1
+28,7542,species,Little Blue Heron,Egretta caerulea,1,Bombay Hook NWR--Shearness Pool,US-DE,09 Aug 2023,L483019,S146871260,,1
+29,7382,species,Glossy Ibis,Plegadis falcinellus,6,Bombay Hook NWR--Shearness Pool,US-DE,09 Aug 2023,L483019,S146871260,,1
+30,7342,species,Double-crested Cormorant,Nannopterum auritum,5,Bombay Hook NWR--Shearness Pool,US-DE,09 Aug 2023,L483019,S146871260,,1
+31,6776,species,Pied-billed Grebe,Podilymbus podiceps,1,Bombay Hook NWR--Shearness Pool,US-DE,09 Aug 2023,L483019,S146871260,,1
+32,6494,species,Great Black-backed Gull,Larus marinus,3,Bombay Hook NWR--Shearness Pool,US-DE,09 Aug 2023,L483019,S146871260,,1
+33,6472,species,American Herring Gull,Larus smithsonianus,3,Bombay Hook NWR--Shearness Pool,US-DE,09 Aug 2023,L483019,S146871260,,1
+34,6083,species,Lesser Yellowlegs,Tringa flavipes,1,Bombay Hook NWR--Shearness Pool,US-DE,09 Aug 2023,L483019,S146871260,,1
+35,5754,species,Black-bellied Plover,Pluvialis squatarola,1,Bombay Hook NWR--Shearness Pool,US-DE,09 Aug 2023,L483019,S146871260,,1
+36,5443,species,American Coot,Fulica americana,1,Bombay Hook NWR--Shearness Pool,US-DE,09 Aug 2023,L483019,S146871260,,1
+37,441,species,Wood Duck,Aix sponsa,1,Bombay Hook NWR--Shearness Pool,US-DE,09 Aug 2023,L483019,S146871260,,1
+38,365,species,Mute Swan,Cygnus olor,2,Bombay Hook NWR--Shearness Pool,US-DE,09 Aug 2023,L483019,S146871260,N,1
+39,7658,species,Great Blue Heron,Ardea herodias,1,Bombay Hook National Wildlife Refuge,US-DE,09 Aug 2023,L126637,S146871195,,1
+40,7611,species,Green Heron,Butorides virescens,1,Bombay Hook National Wildlife Refuge,US-DE,09 Aug 2023,L126637,S146871195,,1
+41,32338,species,American Goldfinch,Spinus tristis,1,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+42,7720,species,Turkey Vulture,Cathartes aura,1,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+43,7635,species,Great Egret,Ardea alba,4,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+44,7557,species,Snowy Egret,Egretta thula,3,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+45,6657,species,Forster's Tern,Sterna forsteri,1,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+46,6424,species,Laughing Gull,Leucophaeus atricilla,1,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+47,6168,species,Semipalmated Sandpiper,Calidris pusilla,10,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+48,6167,species,Western Sandpiper,Calidris mauri,1,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+49,6121,species,Stilt Sandpiper,Calidris himantopus,4,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+50,6092,species,Greater Yellowlegs,Tringa melanoleuca,1,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+51,6001,species,Long-billed Dowitcher,Limnodromus scolopaceus,2,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+52,5997,species,Short-billed Dowitcher,Limnodromus griseus,,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+53,330,species,Canada Goose,Branta canadensis,40,Bombay Hook NWR--Raymond Pool,US-DE,09 Aug 2023,L483327,S146836289,,1
+54,23851,species,Purple Martin,Progne subis,,Bombay Hook NWR--Refuge Headquarters,US-DE,09 Aug 2023,L657122,S146828425,,1
+6,6002,slash,Short-billed/Long-billed Dowitcher,Limnodromus griseus/scolopaceus,,Bombay Hook NWR--Raymond Pool,US-DE,22 Sep 2024,L483327,S196116846,,0
+55,7688,spuh,white egret sp.,Egretta/Ardea sp.,2,Churchmans Rd. boat ramp area,US-DE,23 Jun 2023,L11550262,S142506136,,0
